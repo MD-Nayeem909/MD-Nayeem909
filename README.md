@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 
 <p align="center">
-  <img src="https://your-banner-image-link.png" alt="Banner Image" />
+  <img src="https://ibb.co.com/chXNLNVX" alt="Banner Image" />
 </p>
 
 <h1 align="center">Mohammad Nayeem Uddin</h1>
