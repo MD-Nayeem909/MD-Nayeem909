@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://github.com/MD-Nayeem909/MD-Nayeem909/blob/main/Banner.jpg" alt="Banner Image" />
 </p>
-<p>
+
+<p align="right">
   <a href="https://github.com/MD-Nayeem909">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
   </a>
