@@ -1,3 +1,4 @@
+
 <!-- Banner Image -->
 
 <p align="center">
@@ -36,7 +37,7 @@ I also have basic experience with backend technologies, which helps me understan
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-Nayeem909" />
 </p>
 
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-nayeem909&theme=react-white&bg_color=ffffff&hide_border=true" width="100%"/>
 
 
 ## 🛠️ Skills
