@@ -3,11 +3,19 @@
 <p align="center">
   <img src="https://github.com/MD-Nayeem909/MD-Nayeem909/blob/main/Banner.jpg" alt="Banner Image" />
 </p>
+<p>
+  <a href="https://github.com/MD-Nayeem909">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/md-nayeem98">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://x.com/md_nayeem98">
+    <img src="https://img.shields.io/badge/X-twitter-000000?style=for-the-badge&logo=twitter" />
+  </a>
+</p>
 
-<h1 align="center">Mohammad Nayeem Uddin</h1>
-<h3 align="center">Frontend Web Developer | MERN Stack (Junior)</h3>
 
----
 
 ## 👋 About Me
 I am a Frontend Web Developer with hands-on experience in building responsive and user-friendly web applications.  
@@ -16,14 +24,19 @@ I also have basic experience with backend technologies, which helps me understan
 
 💡 I believe in learning by building and improving step by step.
 
----
+
 
 ## 🚀 Current Activities
 - 🌱 Exploring **Next.js**, focusing on routing, performance, and best practices  
 - 🏗️ Building a **tourism-related web application** using React and Tailwind CSS  
-- 🧠 Improving problem-solving skills and clean coding habits  
+- 🧠 Improving problem-solving skills and clean coding habits
 
----
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-Nayeem909" />
+</p>
+
+
+
 
 ## 🛠️ Skills
 
@@ -42,25 +55,3 @@ I also have basic experience with backend technologies, which helps me understan
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
----
-
-## 🌐 Connect With Me
-<p>
-  <a href="https://github.com/MD-Nayeem909">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/md-nayeem98">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://x.com/md_nayeem98">
-    <img src="https://img.shields.io/badge/X-twitter-000000?style=for-the-badge&logo=twitter" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-Nayeem909" />
-</p>
