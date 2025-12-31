@@ -52,19 +52,14 @@ I also have basic experience with backend technologies, which helps me understan
   <a href="https://linkedin.com/in/md-nayeem98">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="https://x.com/md_nayeem98">
+    <img src="https://img.shields.io/badge/X-twitter-000000?style=for-the-badge&logo=twitter" />
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MD-Nayeem909&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Nayeem909&layout=compact" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-Nayeem909" />
