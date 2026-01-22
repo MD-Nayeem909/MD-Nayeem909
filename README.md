@@ -30,11 +30,11 @@ I also have basic experience with backend technologies, which helps me understan
 
 ## 🚀 Current Activities
 - 🌱 Exploring **Next.js**, focusing on routing, performance, and best practices  
-- 🏗️ Building a **tourism-related web application** using React and Tailwind CSS  
+- 🏗️ Building a **Modern logistics ecosystem-related web application** using React, NextJS, JavaScript and TailwindCSS  
 - 🧠 Improving problem-solving skills and clean coding habits
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-Nayeem909" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MD-Nayeem909&fire=EB5454&ring=16B8A7&currStreakLabel=16B8A7" alt="GitHub Streak" /></a>
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-nayeem909&theme=react-white&bg_color=ffffff&hide_border=true" width="100%"/>
